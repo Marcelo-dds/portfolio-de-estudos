@@ -58,4 +58,4 @@ Aqui está um exemplo de como usar o script:
 
 ```bash
 python detector-de-teclas.py -o logs/teclas_pressionadas.txt
-hgf
+
