@@ -1,0 +1,19 @@
+body {
+    width: 400px;
+    margin: auto;
+    font-size: 25px;
+}
+
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    background-color: #d19feb;
+    padding: 16px;
+    color: aliceblue;
+    margin-bottom: 9px;
+    cursor: pointer;
+}
